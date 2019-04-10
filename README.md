@@ -1,7 +1,5 @@
 # Week 11 - Passwords
 
-## Social Engineering
-
 ## Social Engineering and Denial of Service
 In this class we will look at two subjects,
 namely Social Engineering and Denial of Service attacks.
@@ -11,15 +9,6 @@ as a the way in contrast to traditional hacking,
 that uses code.
 The second is about how to make a service unavailable,
 normally by attacking it with heavy traffic and means to avoid such attacks
-
-## Learning Goals
-
-After this week you will:
-
-* Know different ways to use Social Engineering
-* Know ways to detect social engineering attemts
-* Know the most common DoS strategies
-* Know common means to minimize threads of DoS
 
 ## Social Engineering
 
@@ -58,5 +47,16 @@ Create a socket based HTTP POST DoS Attack
 - Skim this articles related to handling credit card info [PCI DSS Quick Reference Guide](https://www.pcisecuritystandards.org/documents/PCI%20SSC%20Quick%20Reference%20Guide.pdf)
 
 
-### Exercise
-We will discuss the most of the topics in the class, but please complete the [exercises](https://docs.google.com/document/d/1eS3u_N6LQtYgBWa21iW9t17lRJElmlVAQA131SoNO78/edit?usp=sharing)
+## Learning Goals
+
+After this week you will:
+
+* Know different ways to use Social Engineering
+* Know ways to detect social engineering attemts
+* Know the most common DoS strategies
+* Know common means to minimize threads of DoS
+
+### Exercises
+
+* [Password handling](https://docs.google.com/document/d/1eS3u_N6LQtYgBWa21iW9t17lRJElmlVAQA131SoNO78/edit?usp=sharing)
+*  Create a socket based HTTP POST DoS Attack. [Example Code](https://github.com/SecurityDatFall2018/Week-13-Code)
