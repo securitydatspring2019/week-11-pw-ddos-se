@@ -1,8 +1,7 @@
 # Week 11 - Passwords
 
-## Social Engineering and Denial of Service
-In this class we will look at two subjects,
-namely Social Engineering and Denial of Service attacks.
+In this class we will look at three subjects,
+namely Social Engineering, Denial of Service attacks, and handling of passwords and secrets.
 The first subject is about to gain information,
 from people using social skills,
 as a the way in contrast to traditional hacking,
@@ -59,4 +58,4 @@ After this week you will:
 ### Exercises
 
 * [Password handling](https://docs.google.com/document/d/1eS3u_N6LQtYgBWa21iW9t17lRJElmlVAQA131SoNO78/edit?usp=sharing)
-*  Create a socket based HTTP POST DoS Attack. [Example Code](https://github.com/SecurityDatFall2018/Week-13-Code)
+*  Create a socket based HTTP POST DoS Attack. Example code in this repository.
