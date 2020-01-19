@@ -1,4 +1,6 @@
-# Week 11 - Passwords
+# Passwords, Social Engineering and Denial of Service (DoS)
+
+## Passwords
 
 In this class we will look at three subjects,
 namely Social Engineering, Denial of Service attacks, and handling of passwords and secrets.
